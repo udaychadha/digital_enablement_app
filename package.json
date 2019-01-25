@@ -1,0 +1,23 @@
+{
+  "name": "digital_enablement_app",
+  "version": "1.0.0",
+  "description": "Digital Enablement App port using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaychadha/digital_enablement_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaychadha/digital_enablement_app/issues"
+  },
+  "homepage": "https://github.com/udaychadha/digital_enablement_app#readme",
+  "devDependencies": {
+    "electron": "4.0.2"
+  }
+}
