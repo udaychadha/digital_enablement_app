@@ -1,0 +1,31 @@
+
+.row {
+    width:100%;
+    background:#393f4d;
+    border-bottom: 3px solid #feda6a;
+    display: grid;
+    grid-template-columns: 35% auto 35%;
+    align-items: center;
+    color: #ffffff;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+}
+
+.browse-container {
+    display: inline-block;
+    vertical-align: middle
+}
+
+/* p {
+    color: #adb7bd; 
+    font-family: 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-indent: 30px;
+    margin: 0;
+}
+
+
+a {
+    color: #fe921f;
+    text-decoration: underline; 
+} */
